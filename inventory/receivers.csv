@@ -1,0 +1,7 @@
+sequence,receiver_id,model,home_desk,initial_state
+1,RX-A1,ListenWave 4,Orchid,AVAILABLE
+2,RX-B2,CaptionGo Mini,Maple,AVAILABLE
+3,RX-C3,ListenWave 4,Orchid,QUARANTINED
+4,RX-D4,ClearSeat Pro,Cedar,AVAILABLE
+5,RX-E5,CaptionGo Mini,Maple,AVAILABLE
+6,RX-F6,ClearSeat Pro,Cedar,AVAILABLE
